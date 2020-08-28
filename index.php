@@ -17,6 +17,12 @@
                 <li>
                     <a href="EX03.php">Try 03: 電視選台器</a>
                 </li>
+                <li>
+                    <a href="EX04.php">Try 04: 匯率轉換器(一般陣列)</a>
+                </li>
+                <li>
+                    <a href="EX05.php">Try 05: 匯率轉換器(關聯陣列)</a>
+                </li>
             <ul>
         <hr>
         <p>2020/08/28</p>
